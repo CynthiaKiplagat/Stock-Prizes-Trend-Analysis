@@ -20,7 +20,11 @@ I calculated two key moving averages: the 50-day and 200-day moving averages. Th
 Is a trendline that represents the average of the closing prices for a stock over the past 50 days.This show case short term.
 ### the 200-day Moving Averages
 Is the average of the closing prices over the past 200 days.This show case long term.
+### Trend Indicators
 
+![Alt Text](https://github.com/CynthiaKiplagat/Stock-Prizes-Trend-Analysis/blob/main/AAPL%20MVA.PNG)
+
+### Trend Classification
 ![Alt Text](https://github.com/CynthiaKiplagat/Stock-Prizes-Trend-Analysis/blob/main/AAPL%20MVA.PNG)
 
 
