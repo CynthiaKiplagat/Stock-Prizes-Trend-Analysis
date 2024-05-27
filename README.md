@@ -11,10 +11,16 @@ What implications do these trends have for investors looking to trade or invest 
 # Data Methodology 
 ## Data Collection
 To analyze market trends:
-I collected Daily historical data for Apple Inc. (AAPL) from yahoo finance from 27 January 2021 to 24 May 2021.
+I collected Daily historical data for Apple Inc. (AAPL) from yahoo finance from 27 January 2021 to 24 May 2024.
 ## Data Processing
 I cleaned the data by handling missing values and errors, ensuring it's organized and accurate for analysis.
 ## Moving Average Calculation:
 I calculated two key moving averages: the 50-day and 200-day moving averages. These averages help smooth out price fluctuations over time.
+### the 50-day Moving Averages
+Is a trendline that represents the average of the closing prices for a stock over the past 50 days.This show case short term.
+### the 200-day Moving Averages
+Is the average of the closing prices over the past 200 days.This show case long term.
+
+
 
 
