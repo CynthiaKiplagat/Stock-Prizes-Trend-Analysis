@@ -25,7 +25,7 @@ Is the average of the closing prices over the past 200 days.This show case long 
 ![Alt Text](https://github.com/CynthiaKiplagat/Stock-Prizes-Trend-Analysis/blob/main/AAPL%20MVA.PNG)
 
 ### Trend Classification
-![Alt Text](https://github.com/CynthiaKiplagat/Stock-Prizes-Trend-Analysis/blob/main/AAPL%20MVA.PNG)
+![Alt Text](https://github.com/CynthiaKiplagat/Stock-Prizes-Trend-Analysis/blob/main/AAPL%20STOCK%20TREND%20ANALYSIS.PNG)
 
 
 
